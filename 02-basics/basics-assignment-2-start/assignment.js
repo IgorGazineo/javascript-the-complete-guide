@@ -8,8 +8,7 @@ function showAlert2(name) {
   alert(`My name is ${name}`);
 }
 
-showAlert();
-showAlert2();
+showAlert2("Isabella");
 
 task3Element.addEventListener("click", showAlert);
 
